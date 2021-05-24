@@ -1,6 +1,8 @@
 # EzBioLocalBlast
 Run blast fastly based on local EzBio database
 
+If cite, please use url: **https://github.com/2015qyliang/EzBioLocalBlast**
+
 ### 2021年5月24日
 
 在传统微生物资源挖掘过程中, 需要对大量的分离菌株进行鉴定. 通过在线提交序列获取初步鉴定信息已经不能满足日益繁多的一代测序结果的解决现状. 
