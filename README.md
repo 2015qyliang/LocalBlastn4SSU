@@ -1,7 +1,13 @@
-# EzBioLocalBlast
-Run blast fastly based on local EzBio database
+# LocalBlastn4SSU
+Run blast fastly based on local SILVA database
 
-If cite, please use url: **https://github.com/2015qyliang/EzBioLocalBlast**
+If cite, please use url: **https://github.com/2015qyliang/LocalBlastn4SSU**
+
+### 2021年7月30日
+
+EzBioCloud的网站最近更新了网站架构，提高了反爬虫的灵敏度。
+
+因此为实现16S rDNA一代测序结果本地批量比对，改善数据库的选择策略，一边倒地倾向[Silva数据库](https://www.arb-silva.de/)，所处理的版本是[release_138](https://www.arb-silva.de/fileadmin/silva_databases/release_138/Exports/SILVA_138_SSURef_NR99_tax_silva.fasta.gz)。
 
 ### 2021年5月24日
 
