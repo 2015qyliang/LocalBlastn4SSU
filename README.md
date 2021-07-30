@@ -3,6 +3,8 @@ Run blast fastly based on local SILVA database
 
 If cite, please use url: **https://github.com/2015qyliang/LocalBlastn4SSU**
 
+[点击可下载新版本](https://github.com/2015qyliang/LocalBlastn4SSU/releases/download/V1.1/LocalSilva_V1.1.zip)
+
 ### 2021年7月30日
 
 EzBioCloud的网站最近更新了网站架构，提高了反爬虫的灵敏度。
